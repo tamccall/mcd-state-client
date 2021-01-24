@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="mcd-state-client",
-    version="0.0.7",
+    version="0.0.8",
     author="Andy McCall",
     author_email="andymc903@gmail.com",
     description="An mcdstate.info API wrapper",
