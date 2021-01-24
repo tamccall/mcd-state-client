@@ -7,4 +7,4 @@ install:
 # command to run tests
 script:
   - black --check ./
-  - pytest
+  - python -m unittest tests/*
